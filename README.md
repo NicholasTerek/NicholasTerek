@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-ToolBox
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="JavaScript logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="JavaScript logo" width="50" height="50">
