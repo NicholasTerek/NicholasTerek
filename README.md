@@ -21,8 +21,8 @@ Here are some ideas to get you started:
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" alt="C logo" width="50" height="50">
 
 
 </div>
@@ -34,4 +34,5 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="React logo" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="C logo" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" width="50" height="50">=
 </div>
