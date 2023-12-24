@@ -29,3 +29,4 @@
 </div>
 
 ##
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NicholasTerek/langs)](https://githubtrends.io)
