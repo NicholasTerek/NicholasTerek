@@ -30,3 +30,5 @@
 
 ##
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NicholasTerek/langs)](https://githubtrends.io)
+
+<img src="https://api.githubtrends.io/user/svg/NicholasTerek/langs?time_range=one_year&theme=classic" alt="Stats logo">
