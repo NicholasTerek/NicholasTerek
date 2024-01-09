@@ -13,8 +13,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" alt="Swift logo" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="Mysql logo" width="50" height="50">
-
-
 </div>
 
 ##
