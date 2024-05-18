@@ -13,7 +13,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" alt="Swift logo" width="50" height="50">
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg)" alt="Swift logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" alt="Swift logo" width="50" height="50">
     <!--  <img src="[https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg)" alt="Mysql logo" width="50" height="50"> -->
 </div>
 
