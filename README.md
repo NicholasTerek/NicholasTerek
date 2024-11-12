@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Nicholas Terek
 
 #### 🚀 About Me
 
-- 🌱 I’m currently learning **C++ **
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: **Linkedin @Nicholas Terek**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Tacos are my favorite food**
@@ -23,12 +23,12 @@ Welcome to my GitHub profile! I'm Nicholas Terek
 
 #### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholasterek&show_icons=true&theme=default&count_private=true)
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="your-username" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasterek&theme=default" alt="nicholasterek" />
 </p>
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nicholasterek/nicholasterek/blob/output/github-contribution-grid-snake.svg)
 
