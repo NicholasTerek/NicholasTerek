@@ -23,12 +23,9 @@ Welcome to my GitHub profile! I'm Nicholas Terek
 
 #### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholasterek&show_icons=true&theme=default&count_private=true)
-
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasterek&theme=default" alt="nicholasterek" />
 </p>
 
-![Snake animation](https://github.com/nicholasterek/nicholasterek/blob/output/github-contribution-grid-snake.svg)
+
 
