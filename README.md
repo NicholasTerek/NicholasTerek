@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Nicholas Terek
 
 #### 🚀 About Me
 
-- 🌱 I’m currently learning (Performance Engineering in C, C++ ) & (Backend Engineering in Go)
+- 🌱 I’m currently learning (Performance Engineering in C + C++ ) & (Backend Engineering in Go)
 - 📫 How to reach me: **Linkedin @Nicholas Terek**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Tacos are my favorite food**
